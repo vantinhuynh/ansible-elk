@@ -28,7 +28,7 @@ go build
 ```
 
 ## Get and Run binary
-1. Download balance binary file
+1. Download proxyService binary file
 2. Execute:
 ```
 ./proxyService http -bind :4000 remotehost:4001
